@@ -1,0 +1,42 @@
+% Space and Time Complexity Analysis of Distributed Algorithms
+% Iman Mokhtari Aski
+% F. Kaviani
+
+> This is a thing that really scares me, are people developing large applications that they don’t understand. - Joe Armstrong
+
+# Abstract
+Distributed algorithms play a crucial role in modern computing systems, enabling the efficient coordination and management of resources across distributed environments. Understanding the space and time complexity of these algorithms is essential for evaluating their performance and scalability. This paper presents a comprehensive analysis of the space and time complexity of various distributed algorithms, ranging from consensus algorithms to distributed data structures and graph algorithms. We delve into the fundamental concepts of space and time complexity and their relevance in the context of distributed systems. Through a detailed exploration of specific algorithms, we provide insights into the trade-offs between space and time complexity in distributed environments. Furthermore, empirical evaluations and simulations are employed to illustrate the practical implications of the complexity analysis. By shedding light on the intricacies of space and time complexity in distributed algorithms, this paper aims to contribute to the foundational understanding of distributed computing and inform the design and implementation of efficient distributed systems.
+
+---
+
+## Chapters
+
+### 1. Introduction
+   - Overview of distributed computing and the significance of space and time complexity analysis in this context
+   - Brief introduction to the key concepts and objectives of the paper
+
+### 2. Fundamentals of Space and Time Complexity
+   - Definition of space and time complexity in the context of distributed algorithms
+   <!-- - Explanation of common notation and metrics used to analyze complexity -->
+   <!-- - Discussion of the relevance of complexity analysis in evaluating algorithmic efficiency -->
+
+### 3. Consensus Algorithms
+   - Analysis of space and time complexity in classic consensus algorithms such as Paxos and Raft
+   <!-- - Comparison of different consensus algorithms in terms of their complexity characteristics -->
+   <!-- - Discussion of practical implications and trade-offs in choosing consensus algorithms based on complexity considerations -->
+
+### 4. Distributed Data Structures
+   <!-- - Examination of space and time complexity in distributed data structures such as distributed hash tables, distributed queues, and distributed caches -->
+   <!-- - Exploration of how the distribution of data impacts complexity analysis -->
+   <!-- - Illustrative examples of how different distributed data structures exhibit varying complexity profiles -->
+
+### 5. Distributed Graph Algorithms
+   <!-- - Investigation of space and time complexity in distributed graph algorithms, including algorithms for graph traversal, shortest path, and spanning trees -->
+   <!-- - Analysis of the impact of network topology and graph characteristics on algorithmic complexity -->
+   <!-- - Case studies demonstrating the application of distributed graph algorithms and their complexity considerations -->
+
+### 7. Conclusion
+   <!-- - Summary of key findings and insights from the analysis of space and time complexity in distributed algorithms -->
+   <!-- - Reflection on the implications for the design and implementation of efficient distributed systems -->
+   <!-- - Suggestions for future research directions and potential extensions of the complexity analysis framework -->
+
